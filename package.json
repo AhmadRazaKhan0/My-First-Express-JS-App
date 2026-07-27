@@ -1,0 +1,13 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "nodemon server.mjs"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
